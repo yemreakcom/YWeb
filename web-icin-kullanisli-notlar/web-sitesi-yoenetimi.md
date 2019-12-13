@@ -14,7 +14,7 @@ CNAME kayıtları ile halledilen bir işlemdir‌
   * `Alt alan adı` olarak belirtilen yere _subdomain_''i yazın \(örn: wiki.yemreak.com\)
   * `Sunucu` alanına size verilen bağlantıyı kopyalayın. \(örn: hosting.github.com\)
 
-​[🌎 Natro Hosting/web/notlar/natro-hosting](https://app.gitbook.com/@yemreak/s/wiki/~/drafts/-Lvxzn9GGfqCP6kXJyQD/web/notlar/natro-hosting)‌
+{% page-ref page="untitled-1.md" %}
 
 ## 🔍 Arama Motoru Yönetimi <a id="arama-motoru-yoenetimi"></a>
 
