@@ -38,7 +38,7 @@ CNAME kayıtları ile halledilen bir işlemdir‌
 * 🚀 Tek tek girmek yerine bir dosyaya kaydedip [buradaki](https://github.com/noitcudni/google-webmaster-tools-bulk-outdated-content-removal) bağlantıdan harici eklentiyi kullanabilirsiniz
 
 {% hint style="info" %}
-👨‍💻 Eğer python diline hakim isen [google](https://pypi.org/project/google/) reposu ile tüm sonuçları toplayabilirsin
+👨‍💻 Eğer python diline hakim isen [YPackage](https://pypi.org/project/ypackage/) üzerindeki **🔍 Google Arama Motoru** ile tüm sonuçları toplayabilirsin
 {% endhint %}
 
 ## 📊 Sitenize Gelenleri Analiz Etme <a id="sitenize-gelenleri-analiz-etme"></a>
