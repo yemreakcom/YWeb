@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌍 Web Programlama](README.md)
+* [🌍 Web Notlarım](README.md)
 * [📗 Kullanışlı Notlar](web-icin-kullanisli-notlar/README.md)
   * [🌎 Natro Hosting](web-icin-kullanisli-notlar/untitled-1.md)
   * [👨‍💼 Web Sitesi Yönetimi](web-icin-kullanisli-notlar/web-sitesi-yoenetimi.md)
