@@ -31,6 +31,12 @@ CNAME kayıtları ile halledilen bir işlemdir‌
 📢 Eğer sitenizde birden fazla sayfa varsa **Sitemaps.xml** dosyasını Google Search Console üzerine yükleyin
 {% endhint %}
 
+### 🧹 Eski Google Sonuçlarını Temizleme
+
+* 🧼 [Remove outdated content](https://www.google.com/webmasters/tools/removals) alanından istediğiniz google sonucu temizleyebilirsiniz
+* 📢 Gerekli alana [Find a webpage Url](https://support.google.com/webmasters/answer/63758) alanında açıklandığı şekilde veri giriniz
+* 🚀 Tek tek girmek yerine bir dosyaya kaydedip [buradaki](https://github.com/noitcudni/google-webmaster-tools-bulk-outdated-content-removal) bağlantıdan harici eklentiyi kullanabilirsiniz
+
 ## 📊 Sitenize Gelenleri Analiz Etme <a id="sitenize-gelenleri-analiz-etme"></a>
 
 * ​[Google Analytics](http://analytics.google.com/)'e giriş yapın
