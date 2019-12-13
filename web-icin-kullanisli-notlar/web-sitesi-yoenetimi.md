@@ -37,6 +37,10 @@ CNAME kayıtları ile halledilen bir işlemdir‌
 * 📢 Gerekli alana [Find a webpage Url](https://support.google.com/webmasters/answer/63758) alanında açıklandığı şekilde veri giriniz
 * 🚀 Tek tek girmek yerine bir dosyaya kaydedip [buradaki](https://github.com/noitcudni/google-webmaster-tools-bulk-outdated-content-removal) bağlantıdan harici eklentiyi kullanabilirsiniz
 
+{% hint style="info" %}
+👨‍💻 Eğer python diline hakim isen [Google](https://pypi.org/project/google/) reposu ile tüm sonuçları toplayabilirsin
+{% endhint %}
+
 ## 📊 Sitenize Gelenleri Analiz Etme <a id="sitenize-gelenleri-analiz-etme"></a>
 
 * ​[Google Analytics](http://analytics.google.com/)'e giriş yapın
