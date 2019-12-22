@@ -16,7 +16,7 @@ description: >-
 
 ## 🧾 Natro için CNAME Kayıtları <a id="natro-icin-cname-kayitlari"></a>
 
-Domain yönetimi alanına [👨‍💼 Natro için Domain Yönetimi]() yönergeleri takip ederek gelin
+Domain yönetimi alanına [👨‍💼 Natro için Domain Yönetimi](untitled-1.md#natro-icin-domain-yoenetimi) yönergeleri takip ederek gelin
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrcGwDVnghIgjDIIhGv%2F-Lrcv6jUggbOsn887SZT%2F-LrcxFf9yaJTVPFc7Xbx%2Fimage.png?alt=media&token=20b330d8-3ad1-4504-b69e-02b6ec5ace6b)
 
@@ -24,7 +24,7 @@ Domain yönetimi alanına [👨‍💼 Natro için Domain Yönetimi]() yönergel
 
 ## 📄 Natro için TXT Kayıtları <a id="natro-icin-txt-kayitlari"></a>
 
-Domain yönetimi alanına [👨‍💼 Natro için Domain Yönetimi]() yönergeleri takip ederek gelin
+Domain yönetimi alanına [👨‍💼 Natro için Domain Yönetimi](untitled-1.md#natro-icin-domain-yoenetimi) yönergeleri takip ederek gelin
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrcGwDVnghIgjDIIhGv%2F-Lrcv6jUggbOsn887SZT%2F-LrcxJGmu42BL6E0C0WK%2Fimage.png?alt=media&token=a0b146a0-9dc7-435a-9047-8442375ff9ad)
 
