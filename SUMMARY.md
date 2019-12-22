@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🌍 Web Notlarım](README.md)
-* [👨‍💼 Web Sitesi Yönetimi](web-sitesi-yoenetimi.md)
+* [👨‍💼 Web Sitesi Yönetimi](web-sitesi-yonetimi.md)
 * [🌎 Natro Hosting](untitled-1.md)
 * [🐘 PHP](php.md)
 * [📜 Javascript](javascript.md)
