@@ -567,7 +567,7 @@ function sleep(milliseconds) {
 
 Hepsi için [buraya](https://www.freeformatter.com/mime-types-list.html) bakabilirsin, sık kullanılanlar aşağıda listelenmiştir.
 
-## HTTP İstekleri
+## 💌 HTTP İstekleri
 
 ```javascript
 // https://stackoverflow.com/questions/247483/http-get-request-in-javascript
