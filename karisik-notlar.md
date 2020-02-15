@@ -4,6 +4,10 @@ description: Web programlama için karışık notlar
 
 # 🥴 Karışık Notlar
 
+## ⭐ Faydalı Teknolojiler <a id="css-notlari"></a>
+
+* [📖 Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+
 ## CSS Notları <a id="css-notlari"></a>
 
 * `width: 1vw` Ekranın genişliğinin 100'de 1'ini temsil eder
