@@ -681,6 +681,27 @@ print(elem)
 
 > [Print content of div](https://stackoverflow.com/a/2255438/9770490)
 
+## 📋 Panoya İşlemleri
+
+```javascript
+function copy(text) {
+    var input = document.createElement('input');
+    input.setAttribute('value', text);
+    document.body.appendChild(input);
+    input.select();
+    var result = document.execCommand('copy');
+    document.body.removeChild(input);
+    return result;
+ }
+ 
+ copy("YEmreAk")
+ // CTRL V ile yapıştırın
+```
+
+{% hint style="info" %}
+‍🧙‍♂ Detaylı bilgi için [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/a/46215202/9770490) alanına bakabilirsin.
+{% endhint %}
+
 ## VsCode Eklentileri
 
 | Eklenti | Açıklama |
