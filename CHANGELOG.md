@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 05/03/2020 - 22:28:52 - [GitBook: [master] 15 pages modified](https://github.com/YEmreAk/YWeb/commit/971fbe5cd9dd313068b016d8bdb1ba48b33a543b?diff=split) ~ Yunus Emre
 - 02/03/2020 - 12:26:31 - [GitBook: [master] 5 pages modified](https://github.com/YEmreAk/YWeb/commit/3f8063fec2683e298a9905a51459d3eb651ad517?diff=split) ~ Yunus Emre
 - 15/02/2020 - 18:17:06 - [✨](https://github.com/YEmreAk/YWeb/commit/76a9971ca41997bbc12ca6b12ea4fbec810c5e40?diff=split) ~ Yunus Emre
 - 15/02/2020 - 14:28:13 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YWeb/commit/1787e03cc17741767ba8368e2961809dc1b7a803?diff=split) ~ Yunus Emre
