@@ -65,13 +65,13 @@ Admin - Property - Filter - Add Filter alanından aşağıdaki özelliklere sahi
 ### 💨 Direkt Yönlendirme <a id="direkt-yoenlendirme"></a>
 
 ```text
-<script type='text/javascript'>  var d='<data:blog.url/>';  d=d.replace(/.*\/\/[^\/]*/, '');  location.href = 'http://www.marketingextremist.com';</script>
+<script type='text/javascript'>  var d='<data:blog.url/>';  d=d.replace(/.*\/\/[^\/]*/, '');  location.href = 'https://lib.yemreak.com';</script>
 ```
 
 ### 👨‍💼 Belirli URL'i Yönlendirme <a id="belirli-urli-yoenlendirme"></a>
 
 ```text
-<script>if(window.location.href == '<strong>Page URL</strong>'){window.location="http://www.marketingextremist.com";}</script>
+<script>if(window.location.href == '<strong>Page URL</strong>'){window.location="https://lib.yemreak.com";}</script>
 ```
 
 ### 🕐 Gecikmeli Yönlendirme <a id="gecikmeli-yoenlendirme"></a>
