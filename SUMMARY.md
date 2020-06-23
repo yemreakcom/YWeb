@@ -28,7 +28,7 @@
     * [🔰 Nodejs Giriş](web-programlama/nodejs/nodejs-giris.md)
     * [🧱 Nodejs Temelleri](web-programlama/nodejs/nodejs-temelleri.md)
     * [🥬 NPM](web-programlama/nodejs/npm.md)
-  * [⚛️ React Programlama](web-programlama/react.md)
+  * [⚛️ React](web-programlama/react.md)
   * [🐜 Ant Design](web-programlama/ant-design.md)
   * [🐘 PHP](web-programlama/php.md)
 * [💜 Heroku](heroku.md)

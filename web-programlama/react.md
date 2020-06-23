@@ -2,7 +2,7 @@
 description: React ile programlamaya giriş
 ---
 
-# ⚛️ React Programlama
+# ⚛️ React
 
 ## Neden React <a id="neden-react"></a>
 
