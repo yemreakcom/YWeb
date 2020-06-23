@@ -1,3 +1,9 @@
+---
+description: >-
+  Webhooks hızlı bakış, avantajları, dezavantajları, nerelerde kullanılır,
+  faydaları, nedir, ne için neden  kullanılır
+---
+
 # ⚓ Webhooks
 
 ![](../.gitbook/assets/webhooks.png)

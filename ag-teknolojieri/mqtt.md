@@ -1,3 +1,10 @@
+---
+description: >-
+  MQTT message queueing telemetry transport hızlı bakış, avantajları,
+  dezavantajları, nerelerde kullanılır, faydaları, nedir, ne için neden 
+  kullanılır
+---
+
 # 📶 Message Queueing Telemetry Transport
 
 ![](../.gitbook/assets/mqtt_python.png)

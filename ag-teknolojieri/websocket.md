@@ -1,3 +1,9 @@
+---
+description: >-
+  Websocket hızlı bakış, avantajları, dezavantajları, nerelerde kullanılır,
+  faydaları, nedir, ne için neden  kullanılır
+---
+
 # 🕳️ Websocket
 
 ## 👀 Hızlıca Tanıyalım

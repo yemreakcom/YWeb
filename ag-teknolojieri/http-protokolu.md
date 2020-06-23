@@ -1,3 +1,7 @@
+---
+description: 'HTTP protokolü nedir, nasıl kullanılır'
+---
+
 # 💌 HTTP Protokolü
 
 ## 💎 HTTP İstek Türleri
@@ -17,7 +21,7 @@
 /test/demo_form.php?name1=value1&name2=value2 <!-- URL örneği -->
 ```
 
-### 🏚 Head Request
+### 🧱 Head Request
 
 * Get request yapısına alttakiler hariç benzer
 * Sonuç bilgisine `body` içeriği olmaz

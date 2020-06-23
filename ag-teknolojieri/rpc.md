@@ -1,3 +1,9 @@
+---
+description: >-
+  RPC, remote procedure call hızlı bakış, avantajları, dezavantajları, nerelerde
+  kullanılır, faydaları, nedir, ne için neden  kullanılır
+---
+
 # 🔌 Remote Procedure Call
 
 ## 👀 Hızlıca Bakış
