@@ -16,7 +16,7 @@
   * [📶 Message Queueing Telemetry Transport](ag-teknolojieri/mqtt.md)
   * [🔌 Remote Procedure Call](ag-teknolojieri/rpc.md)
 * [🧰 Web Teknolojileri](web-teknolojileri/README.md)
-  * [⚛️ React](web-teknolojileri/giris-or-react.md)
+  * [⚛️ React](web-teknolojileri/react.md)
   * [🅰 Angular](web-teknolojileri/angular.md)
   * [🦇 Vue](web-teknolojileri/vue.md)
   * [🌶️ Flask](web-teknolojileri/flask.md)

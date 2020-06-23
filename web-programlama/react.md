@@ -6,8 +6,7 @@ description: React ile programlamaya giriş
 
 ## Neden React <a id="neden-react"></a>
 
-* Sanal bir DOM oluşturarak DOM üzerinden değişiklik olduğunda tüm kod sanal DOM'a aktarılır ardından sadece değişen kısımları DOM'a aktarır.
-* DOM'a sadece değişenler aktarıldıkları için daha hızlı ve daha senkronize işlem yapılır
+{% page-ref page="../web-teknolojileri/react.md" %}
 
 ## React Kullanımı <a id="react-kullanimi"></a>
 
