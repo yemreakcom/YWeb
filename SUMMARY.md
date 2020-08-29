@@ -21,7 +21,7 @@
   * [🦇 Vue](web-teknolojileri/vue.md)
   * [🌶️ Flask](web-teknolojileri/flask.md)
   * [🔥 Django](web-teknolojileri/django.md)
-* [👨‍💻 Web Programlama](web-programlama/README.md)
+* [👨‍�� Web Programlama](web-programlama/README.md)
   * [📜 Javascript](web-programlama/javascript.md)
   * [🔶 JQuery](web-programlama/jquery.md)
   * [💚 Nodejs](web-programlama/nodejs/README.md)

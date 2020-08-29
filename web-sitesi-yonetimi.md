@@ -34,7 +34,7 @@ CNAME kayıtları ile halledilen bir işlemdir‌
 ### 🧹 Eski Google Sonuçlarını Temizleme
 
 * 🧼 [Remove outdated content](https://www.google.com/webmasters/tools/removals) alanından istediğiniz google sonucu temizleyebilirsiniz
-* 📢 Gerekli alana [Find a webpage Url](https://support.google.com/webmasters/answer/63758) alanında açıklandığı şekilde veri giriniz
+* 📢 Gerekli alana [Find a webpage Url](https://support.google.com/webmasters/answer/63758) alanından veya [Google Search Console](https://search.google.com/search-console/removals?resource_id=sc-domain%3Ayemreak.com) üzerinden açıklandığı şekilde veri giriniz
 * 🚀 Tek tek girmek yerine bir dosyaya kaydedip [buradaki](https://github.com/noitcudni/google-webmaster-tools-bulk-outdated-content-removal) bağlantıdan harici eklentiyi kullanabilirsiniz
 
 {% hint style="info" %}
