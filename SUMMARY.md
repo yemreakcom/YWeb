@@ -20,7 +20,7 @@
   * [🦇 Vue](web-teknolojileri/vue.md)
   * [🌶️ Flask](web-teknolojileri/flask.md)
   * [🔥 Django](web-teknolojileri/django.md)
-* [👨‍�� Web Programlama](web-programlama/README.md)
+* [👨‍💻 Web Programlama](web-programlama/README.md)
   * [📜 Javascript](web-programlama/javascript.md)
   * [🔶 JQuery](web-programlama/jquery.md)
   * [💚 Nodejs](web-programlama/nodejs/README.md)
@@ -57,8 +57,4 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
----
-
-* [index](untitled.md)
 
