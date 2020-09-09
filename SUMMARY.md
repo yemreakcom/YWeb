@@ -5,7 +5,6 @@
 * [👨‍💼 Web Sitesi Yönetimi](web-sitesi-yonetimi.md)
 * [🌎 Natro Hosting](untitled-1.md)
 * [🧇 Wordpress](wordpress/README.md)
-  * [Untitled](wordpress/untitled.md)
   * [🏠 Localhost'ta Wordpress](wordpress/localhostta-wordpress.md)
   * [🐞 Wordpress Hata Notları](wordpress/wordpress-hata-notlari.md)
   * [🔗 Wordpress için Linkler](wordpress/wordpress-icin-linkler.md)
