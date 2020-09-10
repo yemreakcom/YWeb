@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [🌍 Web Notlarım](README.md)
-* [👀 Neler Değişti](changelog.md)
+* [👀 Neler Değişti](https://github.com/YEmreAk/YWeb/blob/master/CHANGELOG.md)
 * [👨‍💼 Web Sitesi Yönetimi](web-sitesi-yonetimi.md)
 * [🌎 Natro Hosting](untitled-1.md)
 * [🧇 Wordpress](wordpress/README.md)
@@ -57,4 +57,3 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
