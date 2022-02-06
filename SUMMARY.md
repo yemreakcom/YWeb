@@ -1,4 +1,4 @@
-# 📋 Tüm İçerikler
+# Table of contents
 
 * [🌍 Web Notlarım](README.md)
 * [👀 Neler Değişti](https://github.com/YEmreAk/YWeb/blob/master/CHANGELOG.md)
@@ -47,7 +47,7 @@
 * [🌍 Web Notlarım](https://web.yemreak.com)
 * [🎇 Windows 10 Notlarım](https://windows.yemreak.com)
 * [🚀 YEmoji](https://emoji.yemreak.com)
-* [🌱 YHotkeys](https://yhotkeys.yemreak.com/)
+* [🌱 YHotkeys](https://yhotkeys.yemreak.com)
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
 * [🏫 Üniversite Notları](https://iuce.yemreak.com)
 * [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com)
