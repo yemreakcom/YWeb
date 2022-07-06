@@ -1,8 +1,8 @@
 # 🥬 NPM
 
-## CLI Uygulaması Yapma <a id="cli-uygulamasi-yapma"></a>
+## CLI Uygulaması Yapma <a href="#cli-uygulamasi-yapma" id="cli-uygulamasi-yapma"></a>
 
-### CLI Args \(Komut Argümanları\) <a id="cli-args-komut-arguemanlari"></a>
+### CLI Args (Komut Argümanları) <a href="#cli-args-komut-arguemanlari" id="cli-args-komut-arguemanlari"></a>
 
 Komut argümanları `node index.js arg1 arg2 ...` ile verilir.
 
@@ -12,23 +12,24 @@ Komut argümanları `node index.js arg1 arg2 ...` ile verilir.
 * Geri kalanları kullanıcının yazıdığı parametrelerdir
 * `process.argv.slice(2)` ile kullanıcı parametrelerine erişilir
 
-#### Yargs ile Args Yönetme <a id="yargs-ile-args-yoenetme"></a>
+#### Yargs ile Args Yönetme <a href="#yargs-ile-args-yoenetme" id="yargs-ile-args-yoenetme"></a>
 
 Nodejs sitesindenki açıklamaya [buradan](https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/) erişebilirsin.
 
-#### Minimist ile Args Yönetme <a id="minimist-ile-args-yoenetme"></a>
+#### Minimist ile Args Yönetme <a href="#minimist-ile-args-yoenetme" id="minimist-ile-args-yoenetme"></a>
 
 * İlk olarak projeye dahil edilmeli `npm install -save minimist`
 
-```text
+```
 minimist(process.argv.slice(2))
 ```
 
 > Ek bağlantılar:
 >
-> * *
+> *
+> *
 
-### Bin Klasörü <a id="bin-klasoerue"></a>
+### Bin Klasörü <a href="#bin-klasoerue" id="bin-klasoerue"></a>
 
 Özel komutların tanımlanmasını sağlar.
 
@@ -37,13 +38,13 @@ minimist(process.argv.slice(2))
 
 **Dizin yapısı:**
 
-```text
+```
 + bin  - <komut1>  - <komut2>- index.js- README.md
 ```
 
 **Dosya içeriği:**
 
-```text
+```
 #!/usr/bin/env node require('../')() 
 ```
 
@@ -51,18 +52,19 @@ minimist(process.argv.slice(2))
 
 Bu ayar ile bin dosyamız indirilip gerekli yere konumlandırılacaktır.
 
-```text
+```
 "bin": {    "<komut1>": "bin/<komut1>",    "<komut2>": "bin/<komut2>"},
 ```
 
-## Paket Yapımı Örnekleri <a id="paket-yapimi-oernekleri"></a>
+## Paket Yapımı Örnekleri <a href="#paket-yapimi-oernekleri" id="paket-yapimi-oernekleri"></a>
 
-* 
-## Paketleri Online Test Etme <a id="paketleri-online-test-etme"></a>
+*
+
+## Paketleri Online Test Etme <a href="#paketleri-online-test-etme" id="paketleri-online-test-etme"></a>
 
 * Paketleri indirmeden önce [buradan](https://npm.runkit.com/) test edebilirsin.
 
-## Paket Oluşturma ve Yayınlama <a id="paket-olusturma-ve-yayinlama"></a>
+## Paket Oluşturma ve Yayınlama <a href="#paket-olusturma-ve-yayinlama" id="paket-olusturma-ve-yayinlama"></a>
 
 * İlk olarak npm hesabını [buradan](https://www.npmjs.com/signup) oluşturun
 * `npm adduser` ile kullanıcı oluşturun
@@ -71,11 +73,11 @@ Bu ayar ile bin dosyamız indirilip gerekli yere konumlandırılacaktır.
 * `npm version v1.0.0` ile paketin sürümünü tanımlayın
 * `npm publish` ile [npm sitesine](https://www.npmjs.com/) yükleyebilirsiniz
 
-### Paket için Package.json Ayarları <a id="paket-icin-package-json-ayarlari"></a>
+### Paket için Package.json Ayarları <a href="#paket-icin-package-json-ayarlari" id="paket-icin-package-json-ayarlari"></a>
 
 **Node sürümü ayarı:**
 
-```text
+```
 "engines": {    "node": ">=8"}
 ```
 
@@ -83,9 +85,8 @@ Bu ayar ile bin dosyamız indirilip gerekli yere konumlandırılacaktır.
 
 **Tam Örnek:**
 
-```text
+```
 {  "name": "ytools",  "version": "1.0.0",  "description": "Faydalı olacak araçların, toparlanmış hali",  "main": "index.js",  "scripts": {    "test": "echo \"Error: no test specified\" && exit 1"  },  "engines": {    "node": ">=8"  },  "preferGlobal": true,  "bin": {    "ytools": "bin/ytools"  },  "keywords": [    "yemreak",    "tools",  ],  "repository": {    "type": "git",    "url": "git+https://github.com/yedhrab/YTools.git"  },  "keywords": [    "tools"  ],  "author": "yedhrab",  "license": "MIT",  "bugs": {    "url": "https://github.com/yedhrab/YTools/issues"  },  "homepage": "https://github.com/yedhrab/YTools#readme",  "dependencies": {    "yargs": "^13.2.4"  }}
 ```
 
-> Video örneğine [buradan](https://www.google.com/search?q=make+npm+module&oq=make+npm+module&aqs=chrome.0.0l6.2476j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1) erişebilirsin.
-
+> Video örneğine [buradan](https://www.google.com/search?q=make+npm+module\&oq=make+npm+module\&aqs=chrome.0.0l6.2476j0j7\&sourceid=chrome\&ie=UTF-8#kpvalbx=1) erişebilirsin.

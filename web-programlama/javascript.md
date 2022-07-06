@@ -14,11 +14,11 @@ Python ve Javascript en popüler diller arasındadır.
 
 ## Değişken Tipleri
 
-| Değişken | Açıklama |
-| :--- | :--- |
-| `var` | Her şey serbest 🎉 |
-| `let` | Tekrardan tanımlanamaz, değiştirilebilir |
-| `const` | Tekrardan tanımlanmaz ve değiştirilmez |
+| Değişken | Açıklama                                 |
+| -------- | ---------------------------------------- |
+| `var`    | Her şey serbest 🎉                       |
+| `let`    | Tekrardan tanımlanamaz, değiştirilebilir |
+| `const`  | Tekrardan tanımlanmaz ve değiştirilmez   |
 
 ```javascript
 var temp = 1;
@@ -30,10 +30,10 @@ const temp3 = 5;
 
 ## String İşlemleri
 
-| İşlem | Açıklama |
-| :--- | :--- |
-| `trim()` | Boşluk, satır atlatma gibi özel karakterlerin tekrarını kaldırır |
-| `split(<ayrıac>)` | Metni ayıraca göre parçalama |
+| İşlem             | Açıklama                                                         |
+| ----------------- | ---------------------------------------------------------------- |
+| `trim()`          | Boşluk, satır atlatma gibi özel karakterlerin tekrarını kaldırır |
+| `split(<ayrıac>)` | Metni ayıraca göre parçalama                                     |
 
 * `<ayırac>` Metnin parçalara ayırmak için belirleyici
   * Örn: `' '` ile boşluklu metinler ayrıştırılıp, yeni bir diziye atanır
@@ -48,7 +48,7 @@ for (let i = 0; i < elems.lenght < i++) {
 }
 ```
 
-### Tek Satırlı Koşul İşlemleri \(Ternary If\)
+### Tek Satırlı Koşul İşlemleri (Ternary If)
 
 ```javascript
 kosul ? "Doğru" : "Yanlış"; // Koşul sağlanırsa 'Doğru' sağlanmazsa 'Yanlış' döndürür
@@ -87,14 +87,14 @@ arr.some(checkIndex); // Herhangi biri 1'ten büyük mü? true
 
 Tarih işlemleri için `new Date()` kullanılır.
 
-> Detaylar için [buraya](https://www.w3schools.com/jsref/jsref_obj_date.asp) bakabilirsin.
+> Detaylar için [buraya](https://www.w3schools.com/jsref/jsref\_obj\_date.asp) bakabilirsin.
 
-| Metod | Açıklama | Ek açıklama |
-| :--- | :--- | :--- |
-| `getDate()` | Gün verisini alır | Ayın 6'sı |
-| `getDay()` | Gün ismini sayısal olarak verir | Pazar için 0, Cumartesi için 6 |
-| `setDate(<date> + <offset>)` | Tarihi değiştirme | Bir sonraki veya önceki tarihi alma |
-| `toLocaleDateString(<ülke_kodu>)` | Verilen ülkeye göre zaman metni verir | TR'ye göre için `"06.05.2019"` |
+| Metod                             | Açıklama                              | Ek açıklama                         |
+| --------------------------------- | ------------------------------------- | ----------------------------------- |
+| `getDate()`                       | Gün verisini alır                     | Ayın 6'sı                           |
+| `getDay()`                        | Gün ismini sayısal olarak verir       | Pazar için 0, Cumartesi için 6      |
+| `setDate(<date> + <offset>)`      | Tarihi değiştirme                     | Bir sonraki veya önceki tarihi alma |
+| `toLocaleDateString(<ülke_kodu>)` | Verilen ülkeye göre zaman metni verir | TR'ye göre için `"06.05.2019"`      |
 
 * `<date>` Tarih objesi
   * Örn: `new Date()`
@@ -155,15 +155,15 @@ document.querySelectorAll("span.style-scope.ytd-playlist-video-renderer"); // He
 
 Tek bir eleman alınmak isteniyorsa `querySelector(<işlem>)`, hepsi alınmak isteniyorsa `querySelectorAll(<işlem>)` komutu kullanılır
 
-| İşlem | Seçilen |
-| :--- | :--- |
-| `"#yemreak"` | ID'si yemreak olan eleman |
-| `".yemre"` | `yemre` _class_'ına sahip olan elemanlar |
-| `"[href]"` | `href` özelliği olan elemanlar |
-| `"a[target='_blank']"` | `target`'i `_blank` olan linkler |
-| `"p.active"` | `active` _class_'ına sahip olan tüm _p_ elemanları |
-| `"*"` | Her eleman |
-| `this` | Şuanki eleman |
+| İşlem                  | Seçilen                                            |
+| ---------------------- | -------------------------------------------------- |
+| `"#yemreak"`           | ID'si yemreak olan eleman                          |
+| `".yemre"`             | `yemre` _class_'ına sahip olan elemanlar           |
+| `"[href]"`             | `href` özelliği olan elemanlar                     |
+| `"a[target='_blank']"` | `target`'i `_blank` olan linkler                   |
+| `"p.active"`           | `active` _class_'ına sahip olan tüm _p_ elemanları |
+| `"*"`                  | Her eleman                                         |
+| `this`                 | Şuanki eleman                                      |
 
 #### ID ile HTML Elemanı Alma
 
@@ -216,7 +216,7 @@ array.forEach(element => {
 
 _Tag_ özellikleri olarak geçer. Örn; src, href, data-thumb-url, ...
 
-> Tag içindeki kısımlar \(class, href\)
+> &#x20;Tag içindeki kısımlar (class, href)
 
 ```javascript
 document.getElementById("id").getAttribute("attribute"); // Özelliğin değerini döndürür (string)
@@ -305,18 +305,18 @@ for (url in urls) {
 }
 ```
 
-> [How To Extract URLs From A Website In Chrome? \(No Downloads Required\)](https://www.youtube.com/watch?v=85GqVYeyn18)
+> [How To Extract URLs From A Website In Chrome? (No Downloads Required)](https://www.youtube.com/watch?v=85GqVYeyn18)
 
 ## Beklemeli İşlemler
 
 İki farklı bekleme şekli vardır:
 
-| Bekleme Türü | Açıklama |
-| :--- | :--- |
-| syncronize | Bekleme anında tüm program durur |
-| asyncronize | Bekleme anında sadece belli bir kod parçası durur |
+| Bekleme Türü | Açıklama                                          |
+| ------------ | ------------------------------------------------- |
+| syncronize   | Bekleme anında tüm program durur                  |
+| asyncronize  | Bekleme anında sadece belli bir kod parçası durur |
 
-### Senkronize Bekleme \(Sync\)
+### Senkronize Bekleme (Sync)
 
 _Senkronize_ bekleme işlemleri, yani sırayla çalışan bekleme işlemleri alttaki fonksyionlarla sağlanır:
 
@@ -335,9 +335,9 @@ clearInterval(intervalID); // Interval'ı sonlandırma
   * Sırayla yazılarak verilir
   * Metod çalıştığında verilen parametreler ile çalıştırılır
 
-#### Zamanlayıcı \(setTimeout\)
+#### Zamanlayıcı (setTimeout)
 
-Kaynak için [buraya](https://www.w3schools.com/jsref/met_win_settimeout.asp) tıklayabilirsin.
+Kaynak için [buraya](https://www.w3schools.com/jsref/met\_win\_settimeout.asp) tıklayabilirsin.
 
 ```javascript
 setTimeout(func, delay); // Temel kullanım
@@ -354,9 +354,9 @@ clearTimeout(); // Zamanlayıcıları temizleme
 ```
 
 * `func` Paremetresiz fonksiyon
-* `delay` Gecikme süresi \(ms\)
+* `delay` Gecikme süresi (ms)
 
-### Asenktron Bekleme \(Async\)
+### Asenktron Bekleme (Async)
 
 Beklemeli işlemlerde `await`, `promise` yapısı kullanılır.
 
@@ -582,38 +582,38 @@ function httpGet(theUrl) {
 
 ## Ses İşlemleri
 
-Tuşa basıldığında ses çalma \`\`\`htmlJS Drum Kit A clap S hihat D kick F openhat G boom H ride J snare K tom L tink  
-      function removeTransitionEventListener\(e\) {  
-        if \(e.propertyName !== "transform"\) return;  
-        this.classList.remove\("playing"\);  
-      }  
-  
-      function keyDownEventListener\(e\) {  
-        const audioElement = document.querySelector\(  
-          \`audio\[data-key="${e.keyCode}"\]\`  
-        \);  
-  
-        const div = document.querySelector\(\`div\[data-key="${e.keyCode}"\]\`\);  
-  
-        if \(!audioElement \|\| !div\) return;  
-  
-        // Oynama efekti ekleme  
-        div.classList.add\("playing"\);  
-  
-        // Playing always from start  
-        audioElement.currentTime = 0;  
-        audioElement.play\(\);  
-      }  
-  
-      // Tuşalara basıldığında listenerı aktif etme  
-      window.addEventListener\("keydown", keyDownEventListener\);  
-  
-      // Efektleri kaldırma  
-      const keys = document.querySelectorAll\(".key"\);  
-      keys.forEach\(key =&gt;  
-        key.addEventListener\("transitionend", removeTransitionEventListener\)  
-      \);  
-     \`\`\`
+Tuşa basıldığında ses çalma \`\`\`htmlJS Drum Kit A clap S hihat D kick F openhat G boom H ride J snare K tom L tink\
+&#x20;     function removeTransitionEventListener(e) {\
+&#x20;       if (e.propertyName !== "transform") return;\
+&#x20;       this.classList.remove("playing");\
+&#x20;     }\
+\
+&#x20;     function keyDownEventListener(e) {\
+&#x20;       const audioElement = document.querySelector(\
+&#x20;         \`audio\[data-key="${e.keyCode}"]\`\
+&#x20;       );\
+\
+&#x20;       const div = document.querySelector(\`div\[data-key="${e.keyCode}"]\`);\
+\
+&#x20;       if (!audioElement || !div) return;\
+\
+&#x20;       // Oynama efekti ekleme\
+&#x20;       div.classList.add("playing");\
+\
+&#x20;       // Playing always from start\
+&#x20;       audioElement.currentTime = 0;\
+&#x20;       audioElement.play();\
+&#x20;     }\
+\
+&#x20;     // Tuşalara basıldığında listenerı aktif etme\
+&#x20;     window.addEventListener("keydown", keyDownEventListener);\
+\
+&#x20;     // Efektleri kaldırma\
+&#x20;     const keys = document.querySelectorAll(".key");\
+&#x20;     keys.forEach(key =>\
+&#x20;       key.addEventListener("transitionend", removeTransitionEventListener)\
+&#x20;     );\
+&#x20;    \`\`\`
 
 ## Harici Javascript Dosyası Ekleme
 
@@ -704,16 +704,16 @@ function copy(text) {
 
 ## VsCode Eklentileri
 
-| Eklenti | Açıklama |
-| :--- | :--- |
-| [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | Anlık derleyici ve hata ayıklama \([video](https://www.youtube.com/watch?v=eyzO1xPI6_k)\) |
-| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Kod formatlama ve güzelleştirme |
-| [JavaScript \(ES6\) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | Kod kısayolları |
-| [Babel Javascript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) | ES6 tipinde yazmayı sağlar |
-| [npm Intellisese](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) | NPM modüllerini önerir |
-| [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) | Javascript imla kontrolcüsü |
-| [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | JS için imla kontrolcüsü |
-| [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | Bellek kullanımını gösterir |
+| Eklenti                                                                                                          | Açıklama                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)                         | Anlık derleyici ve hata ayıklama ([video](https://www.youtube.com/watch?v=eyzO1xPI6\_k)) |
+| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)          | Kod formatlama ve güzelleştirme                                                          |
+| [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | Kod kısayolları                                                                          |
+| [Babel Javascript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)        | ES6 tipinde yazmayı sağlar                                                               |
+| [npm Intellisese](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)         | NPM modüllerini önerir                                                                   |
+| [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)                                    | Javascript imla kontrolcüsü                                                              |
+| [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                             | JS için imla kontrolcüsü                                                                 |
+| [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)                        | Bellek kullanımını gösterir                                                              |
 
 ### VsCode Nodejs için Debug Ayarı
 
@@ -743,8 +743,7 @@ function copy(text) {
 
 * [Wait Function](https://hackernoon.com/lets-make-a-javascript-wait-function-fa3a2eb88f11)
 * [Sayfanın en altına inmek](https://stackoverflow.com/a/11715670)
-* [Js Date İşlemleri](https://www.w3schools.com/jsref/jsref_obj_date.asp)
+* [Js Date İşlemleri](https://www.w3schools.com/jsref/jsref\_obj\_date.asp)
 * [Js gün işlemleri](https://stackoverflow.com/a/24998705/9770490)
 * [10 Js Extension for Vscode](https://www.sitepoint.com/vs-code-extensions-javascript-developers/)
-* [Js throws](https://www.w3schools.com/js/js_errors.asp)
-
+* [Js throws](https://www.w3schools.com/js/js\_errors.asp)
